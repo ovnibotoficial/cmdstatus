@@ -1,6 +1,6 @@
 ## Status de comandos do Ovni#7487 (708915970025979914)
 
-> Ultima atualização: `12/11/2020 14:37 (Brasília - DF GMT-3)`
+> Ultima atualização: `12/11/2020 14:41 (Brasília - DF GMT-3)`
 
 **Legenda:** ✅ `Comando ativado (Funcionando corretamente)` | ⚠️ `Comando ativado (Funcionando com falhas)` | ❌ `Comando desativado temporariamente`
 
@@ -125,4 +125,4 @@
 | reps        | ✅     |             |
 | ship        | ⚠️     | Error: getaddrinfo EAI_AGAIN  |
 
-**Está lista poderá sofrer alterações no decorrer dos dias podendo levar até 5 dias para ser atualizada. Verifique as ultimas atualizações através da última atualização.
+**Está lista poderá sofrer alterações no decorrer dos dias podendo levar até 5 dias para ser atualizada. Verifique as ultimas atualizações através da última atualização.**
