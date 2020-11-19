@@ -1,10 +1,13 @@
 ## Status de comandos do Ovni#7487 (708915970025979914)
 
-> Ultima atualização: `19/11/2020 11:55 (Brasília - DF GMT-3)`
+> Ultima atualização: `19/11/2020 12:21 (Brasília - DF GMT-3)`
 
 **Legenda:** ✅ `Comando ativado (Funcionando corretamente)` | ⚠️ `Comando ativado (Funcionando com falhas)` | ❌ `Comando desativado temporariamente`
 
+## ⚠️ 1 comando funcionando com falhas
+
 ### Bot
+✅ Operacional
 | COMANDO    | STATUS | ANOTAÇÃO     |
 | ---------- | ------ | ------------ | 
 | docs       | ✅     |             |
@@ -17,6 +20,7 @@
 | vote       | ✅     |             |
 
 ### Diversão
+✅ Operacional
 | COMANDO    | STATUS | ANOTAÇÃO     |
 | ---------- | ------ | ------------ | 
 | 8ball      | ✅     |             |
@@ -31,6 +35,7 @@
 | votacao    | ✅     |             |
 
 ### Economia
+✅ Operacional
 | COMANDO      | STATUS | ANOTAÇÃO     |
 | ------------ | ------ | ------------ | 
 | addmoney     | ✅     |             |
@@ -45,6 +50,7 @@
 | transactions | ✅     |             |
 
 ### Emojis
+✅ Operacional
 | COMANDO      | STATUS | ANOTAÇÃO     |
 | ------------ | ------ | ------------ | 
 | addemoji     | ✅     |             |
@@ -52,6 +58,7 @@
 | emojiinfo    | ✅     |             |
 
 ### Informações
+✅ Operacional
 | COMANDO     | STATUS | ANOTAÇÃO     |
 | ----------- | ------ | ------------ | 
 | avatar      | ✅     |             |
@@ -66,6 +73,7 @@
 | clima       | ✅     |             |
 
 ### Minecraft
+✅ Operacional
 | COMANDO     | STATUS | ANOTAÇÃO     |
 | ----------- | ------ | ------------ | 
 | conquistamc | ✅     |             |
@@ -76,6 +84,7 @@
 | textcraft   | ✅     |             |
 
 ### Moderação
+✅ Operacional
 | COMANDO         | STATUS | ANOTAÇÃO     |
 | --------------- | ------ | ------------ | 
 | addreact        | ✅     |             |
@@ -105,12 +114,14 @@
 | welcome         | ✅     |             |
 
 ### Servidor de suporte
+✅ Operacional
 | COMANDO     | STATUS | ANOTAÇÃO     |
 | ------------| ------ | -------------| 
 | novidades   | ✅     |             |
 | updates     | ✅     |             |
 
 ### Social
+⚠️ Problema identificado
 | COMANDO     | STATUS | ANOTAÇÃO     |
 | ------------| ------ | ------------ | 
 | background  | ✅     |             |
