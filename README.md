@@ -1,6 +1,6 @@
 ## Status de comandos do Ovni#7487 (708915970025979914)
 
-> Ultima atualização: `23/11/2020 10:56 (Brasília - DF GMT-3)`
+> Ultima atualização: `10/12/2020 20:25 (Brasília - DF GMT-3)`
 
 **Legenda:** ✅ `Comando ativado (Funcionando corretamente)` | ⚠️ `Comando ativado (Funcionando com falhas)` | ❌ `Comando desativado temporariamente`
 
@@ -131,9 +131,9 @@
 | divorcio    | ✅     |             |
 | gay         | ✅     |             |
 | casar       | ✅     |             |
-| perfil      | ❌     | Error: Server responded with 404 |
+| perfil      | ✅     |             |
 | rep         | ✅     |             |
 | reps        | ✅     |             |
-| ship        | ❌     | Error: Server responded with 404 |
+| ship        | ✅     |             |
 
 **Está lista poderá sofrer alterações no decorrer dos dias podendo levar até 5 dias para ser atualizada. Verifique as ultimas atualizações através da última atualização.**
