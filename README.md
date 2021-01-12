@@ -1,6 +1,6 @@
 ## Status de comandos do Ovni#7487 (708915970025979914)
 
-> Ultima atualização: `10/12/2020 20:25 (Brasília - DF GMT-3)`
+> Ultima atualização: `12/01/2021 01:35 (Brasília - DF GMT-3)`
 
 **Legenda:** ✅ `Comando ativado (Funcionando corretamente)` | ⚠️ `Comando ativado (Funcionando com falhas)` | ❌ `Comando desativado temporariamente`
 
@@ -48,6 +48,7 @@
 | removemoney  | ✅     |             |
 | roleshop     | ✅     |             |
 | transactions | ✅     |             |
+| hash         | ✅     |             |
 
 ### Emojis
 ✅ Operacional
@@ -121,7 +122,7 @@
 | updates     | ✅     |             |
 
 ### Social
-⚠️ Problema identificado
+✅ Operacional
 | COMANDO     | STATUS | ANOTAÇÃO     |
 | ------------| ------ | ------------ | 
 | background  | ✅     |             |
