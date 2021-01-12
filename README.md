@@ -1,10 +1,10 @@
 ## Status de comandos do Ovni#7487 (708915970025979914)
 
-> Ultima atualização: `12/01/2021 01:35 (Brasília - DF GMT-3)`
+> Ultima atualização: `12/01/2021 01:41 (Brasília - DF GMT-3)`
 
 **Legenda:** ✅ `Comando ativado (Funcionando corretamente)` | ⚠️ `Comando ativado (Funcionando com falhas)` | ❌ `Comando desativado temporariamente`
 
-## ✅ Operacional
+## ❌ 1 comando está desativado temporariamente 
 
 ### Bot
 ✅ Operacional
@@ -59,7 +59,7 @@
 | emojiinfo    | ✅     |             |
 
 ### Informações
-✅ Operacional
+❌ [1] Desativado temporariamente
 | COMANDO     | STATUS | ANOTAÇÃO     |
 | ----------- | ------ | ------------ | 
 | avatar      | ✅     |             |
@@ -71,7 +71,7 @@
 | traduzir    | ✅     |             |
 | uptime      | ✅     |             |
 | userinfo    | ✅     |             |
-| clima       | ✅     |             |
+| clima       | ❌     |Bug          |
 
 ### Minecraft
 ✅ Operacional
