@@ -4,7 +4,7 @@
 
 **Legenda:** ✅ `Comando ativado (Funcionando corretamente)` | ⚠️ `Comando ativado (Funcionando com falhas)` | ❌ `Comando desativado temporariamente`
 
-## ❌ 2 comandos estão desativados temporariamente
+## ✅ Operacional
 
 ### Bot
 ✅ Operacional
