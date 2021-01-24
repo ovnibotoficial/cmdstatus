@@ -33,6 +33,7 @@
 | rps        | ✅     |             |
 | slap       | ✅     |             |
 | votacao    | ✅     |             |
+| dados      | ✅     |             |
 
 ### Economia
 ✅ Operacional
