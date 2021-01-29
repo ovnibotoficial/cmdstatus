@@ -1,6 +1,6 @@
 ## Status de comandos do Ovni#7487 (708915970025979914)
 
-> Ultima atualização: `24/01/2021 14:07 (Brasília - DF GMT-3)`
+> Ultima atualização: `29/01/2021 18:46 (Brasília - DF GMT-3)`
 
 **Legenda:** ✅ `Comando ativado (Funcionando corretamente)` | ⚠️ `Comando ativado (Funcionando com falhas)` | ❌ `Comando desativado temporariamente`
 
@@ -18,6 +18,7 @@
 | sugestao   | ✅     |             |
 | termos     | ✅     |             |
 | vote       | ✅     |             |
+| botpremium | ✅     |             |
 
 ### Diversão
 ✅ Operacional
